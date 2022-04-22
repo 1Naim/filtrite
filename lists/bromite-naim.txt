@@ -8,7 +8,7 @@ https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext # Discarded in favour of 1Hosts Mini
 
-# Annoying Elements, Cookie promts etc.
+# Annoying Elements, Cookie prompts etc.
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
